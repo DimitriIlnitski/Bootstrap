@@ -10,3 +10,7 @@ section {
 .carousel-control-next-icon {
     background-image: url(../img/next.png);
 }
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 20px;
+}
